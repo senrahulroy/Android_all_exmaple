@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Create Product"
+        android:id="@+id/item1"
+        />
+
+    <item android:title="Alter Product"
+        android:id="@+id/item2"/>
+
+    <item android:title="Show All"
+        android:id="@+id/item3" />
+
+
+    <item android:title="Delete"
+        android:id="@+id/item4"/>
+
+    <item android:title="More Setting"
+        android:id="@+id/moresetting">
+
+        <menu xmlns:dist="http://schemas.android.com/apk/distribution"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+             >
+
+            <item android:title="Dark theme"
+                android:id="@+id/darktheme"/>
+
+            <item android:title="Account Setting"
+                android:id="@+id/acsetting"/>
+
+            <item android:title="Chat Setting"
+                android:id="@+id/chatsetting"/>
+            <item android:title="Application Backup"
+                android:id="@+id/appbackup"/>
+
+            <item android:title="Advanc Menu">
+
+                <menu>
+
+                    <item android:title="Search"
+                        android:id="@+id/search"/>
+
+                    <item android:title="Upload"
+                        android:id="@+id/upload"/>
+
+                    <item android:title="Copy"
+                        android:id="@+id/copy"/>
+
+                    <item android:title="Share"
+                        android:id="@+id/share"/>
+
+                    <item android:title="Print"
+                        android:id="@+id/print"/>
+
+                    <item android:title="BookMark"
+                        android:id="@+id/bookmark"/>
+
+                </menu>
+
+            </item>
+        </menu>
+
+
+    </item>
+
+
+
+
+</menu>

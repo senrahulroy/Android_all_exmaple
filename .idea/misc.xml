@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/drawable/backedit_text.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/drawable/calls.xml" value="0.17552083333333332" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout-land/activity_main.xml" value="0.17724867724867724" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_all_menu.xml" value="0.1956521739130435" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_alldialogs.xml" value="0.33" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_recycler_vv.xml" value="0.19519927536231885" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_recyclerveiw.xml" value="0.19519927536231885" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_retrofit_main.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_room_main.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_second.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_show.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_sqlite_main.xml" value="0.1" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_tab_layout.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/activity_update.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/customadpater.xml" value="0.19927536231884058" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/customrecycler.xml" value="0.18" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_chates.xml" value="0.1578125" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_dynamic_.xml" value="0.20606884057971014" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_dynamic_2.xml" value="0.20606884057971014" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_first.xml" value="0.1578125" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_second.xml" value="0.1578125" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_static.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_static_.xml" value="0.20606884057971014" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/fragment_status.xml" value="0.1" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/recyclerview.xml" value="0.19519927536231885" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/recyclwe_veiw.xml" value="0.19519927536231885" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/layout/rv_show_adpater.xml" value="0.209375" />
+        <entry key="..\:/AndroidClass/MyInstaApp/app/src/main/res/menu/mymenu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
